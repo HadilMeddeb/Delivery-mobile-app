@@ -7,5 +7,5 @@ export default function App() {
   return <ReduxProvider store={store}>
    <RootNavigator />
   </ReduxProvider>
-   
+  //  ollllll
 }
